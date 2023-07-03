@@ -1,0 +1,318 @@
+body {
+    background-image: url(https://foni.club/uploads/posts/2023-03/1677663953_foni-club-p-arti-mobail-legends-14.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+#header {
+    background: none;
+    font-size: 10px;
+    text-align: right;
+    color: #808080;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 20px;
+}
+
+#sidebar {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: center;
+    float: left;
+    width: 20%;
+    height: 600px;
+}
+
+#Vale {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    vertical-align: top;
+    text-align: center;
+    line-height: normal;
+}
+
+#Eudora {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    margin-bottom: 20px;
+    vertical-align: top;
+    text-align: center;
+    line-height: normal;
+}
+
+#Hanabi {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    vertical-align: top;
+    text-align: center;
+    line-height: normal;
+}
+
+#Wanwan {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    margin-bottom: 20px;
+    vertical-align: top;
+    text-align: center;
+    line-height: normal;
+}
+
+#Karina {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    vertical-align: top;
+    text-align: center;
+    line-height: normal;
+}
+
+#Hanzo {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    margin-bottom: 20px;
+    vertical-align: top;
+    text-align: center;
+    line-height: normal;
+}
+
+#Julian {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    vertical-align: top;
+    text-align: center;
+    line-height: normal;
+}
+
+#Ruby {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    margin-bottom: 20px;
+    vertical-align: top;
+    text-align: center;
+    line-height: normal;
+}
+
+#Akai {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    vertical-align: top;
+    text-align: center;
+    line-height: normal;
+}
+
+#Angela {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    margin-bottom: 20px;
+    vertical-align: top;
+    text-align: center;
+    line-height: normal;
+}
+
+#video {
+    display: inline-block;
+    overflow: hidden;
+    color: white;
+    float: left;
+    text-align: center;
+    width: 20%;
+    height: 200px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+} 
+#video {
+    transition: 1s;
+    display: block;
+}
+#video:hover {
+    transform: scale(1.1);
+}
+
+#video1 {
+    color: white;
+    float: left;
+    text-align: center;
+    width: 20%;
+    height: 200px;
+    margin-bottom: 20px;
+}
+#video1 {
+    transition: 1s;
+    display: block;
+}
+#video1:hover {
+    transform: scale(1.1);
+}
+#video2 {
+    color: white;
+    float: left;
+    text-align: center;
+    width: 20%;
+    height: 200px;
+    margin-bottom: 20px;
+}
+#video2 {
+    transition: 1s;
+    display: block;
+}
+#video2:hover {
+    transform: scale(1.1);
+}
+
+#video3 {
+    color: white;
+    float: left;
+    text-align: center;
+    width: 20%;
+    height: 200px;
+    margin-bottom: 20px;
+}
+#video3 {
+    transition: 1s;
+    display: block;
+}
+#video3:hover {
+    transform: scale(1.1);
+}
+
+#video4 {
+    color: white;
+    float: left;
+    text-align: center;
+    width: 20%;
+    height: 200px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+#video4 {
+    transition: 1s;
+    display: block;
+}
+#video4:hover {
+    transform: scale(1.1);
+}
+
+#video5 {
+    color: white;
+    float: left;
+    text-align: center;
+    width: 20%;
+    height: 200px;
+    margin-bottom: 20px;
+}
+#video5 {
+    transition: 1s;
+    display: block;
+}
+#video5:hover {
+    transform: scale(1.1);
+}
+
+#video6 {
+    color: white;
+    float: left;
+    text-align: center;
+    width: 20%;
+    height: 200px;
+    margin-bottom: 20px;
+}
+#video6 {
+    transition: 1s;
+    display: block;
+}
+#video6:hover {
+    transform: scale(1.1);
+}
+
+#video7 {
+    color: white;
+    float: left;
+    text-align: center;
+    width: 20%;
+    height: 200px;
+    margin-bottom: 20px;
+}
+#video7 {
+    transition: 1s;
+    display: block;
+}
+#video7:hover {
+    transform: scale(1.1);
+}
+
+#content {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 20px 25px;
+    background-image: url(https://i.pinimg.com/564x/93/15/14/931514fe62621d1ebcfb3a59d386ec76.jpg);
+    opacity: 0.9;
+    float: left;
+    text-align: left;
+    width: 16%;
+    height: 770px;
+}
+
+#content1 {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 20px 25px;
+    background-image: url(https://i.pinimg.com/564x/a3/76/7f/a3767f97a61b18ac5a906cfaa856c10e.jpg);
+    background-color: transparent;
+    opacity: 0.9;
+    float: left;
+    text-align: left;
+    width: 16%;
+    height: 770px;
+}
+
+#content2 {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 20px 25px;
+    background-image: url(https://i.pinimg.com/564x/a9/ab/29/a9ab297f5567fb4b8f13eb2bb5f5913c.jpg);
+    opacity: 0.9;
+    float: left;
+    text-align: left;
+    width: 16%;
+    height: 770px;
+}
+
+#content3 {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 20px 25px;
+    background-image: url(https://i.pinimg.com/564x/ef/e5/93/efe593f3037b767358a641abd1eb3c97.jpg);
+    opacity: 0.9;
+    float: left;
+    text-align: left;
+    width: 16%;
+    height: 770px;
+}
+
+#clear {
+    clear: both;
+}
